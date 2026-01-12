@@ -4,13 +4,12 @@
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
             <name>ProjetMiAnnee</name>
-            <creation-uuid>24c2516b-895e-4d20-b487-049546105109</creation-uuid>
+            <creation-uuid>92ed7caa-f0f1-4185-98f2-b8fb58486f98</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions/>
             <cpp-extensions/>
             <header-extensions/>
             <asminc-extensions/>
-            <sourceEncoding>ISO-8859-1</sourceEncoding>
             <make-dep-projects/>
             <sourceRootList/>
             <confList>
@@ -19,6 +18,7 @@
                     <type>2</type>
                 </confElem>
             </confList>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
             <formatting>
                 <project-formatting-style>false</project-formatting-style>
             </formatting>
